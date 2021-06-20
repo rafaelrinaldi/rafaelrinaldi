@@ -9,3 +9,21 @@ Previously at [Work & Co](https://work.co), he has launched products for some of
 You can find him on [his website](https://rinaldi.io), [Twitter](https://twitter.com/rafaelrinaldi) and [LinkedIn](https://linkedin.com/in/rafaelrinaldi).
 
 [You can also work with him](https://rinaldi.io/collab).
+
+---
+
+### Sponsors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/lucasmotta">
+        <img src="https://avatars.githubusercontent.com/u/76673?v=3" width="100px;" alt=""/>
+        <br />
+        <sub>Lucas Motta</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+[→ Sponsor my open source work](https://github.com/sponsors/rafaelrinaldi)
