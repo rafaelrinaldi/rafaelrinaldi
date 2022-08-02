@@ -2,9 +2,9 @@ Rafael Rinaldi is a Software Engineer with a passion for finding [simple](https:
 
 He specializes in UI development for the web, leveraging [Design Systems](https://www.nngroup.com/articles/design-systems-101) and leading technical teams.
 
-His most recent role was Engineering Manager at [Better](https://better.com), where he created and ran the Design Systems team.
+Rafael’s current role is Director, Engineering at [Odeko](https://odeko.com), where he focuses his energy on helping small businesses thrive.
 
-Previously at [Work & Co](https://work.co), he has launched products for some of the world’s most respected brands such as [Apple](https://apple.com), [Epic Games](https://epicgames.com), [Oscar](https://hioscar.com), among others.
+Previously, he ran the Design Systems team at [Better](https://better.com) and launched products for some of the world’s most respected brands at [Work & Co](https://work.co).
 
 You can find him on [his website](https://rinaldi.io), [Twitter](https://twitter.com/rafaelrinaldi) and [LinkedIn](https://linkedin.com/in/rafaelrinaldi).
 
