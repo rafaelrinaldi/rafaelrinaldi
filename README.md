@@ -18,9 +18,16 @@ You can find him on [his website](https://rinaldi.io), [Twitter](https://twitter
   <tr>
     <td align="center">
       <a href="https://github.com/lucasmotta">
-        <img src="https://avatars.githubusercontent.com/u/76673?v=3" width="100px;" alt=""/>
+        <img src="https://github.com/lucasmotta.png" width="100px;" alt=""/>
         <br />
         <sub>Lucas Motta</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lenayeee">
+        <img src="https://github.com/lenayeee.png" width="100px;" alt=""/>
+        <br />
+        <sub>Lenny Ayala</sub>
       </a>
     </td>
   </tr>
