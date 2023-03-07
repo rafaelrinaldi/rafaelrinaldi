@@ -1,15 +1,14 @@
-Rafael Rinaldi is a Software Engineer with a passion for finding [simple](https://homepage.cs.uri.edu/~thenry/resources/unix_art/ch01s06.html#id2877917) solutions to interesting problems.
+Rafael Rinaldi is a Software Engineer with a passion for finding simple solutions to interesting problems.
 
-He specializes in UI development for the web, leveraging [Design Systems](https://www.nngroup.com/articles/design-systems-101) and leading technical teams.
+He specializes in frontend development and leading technical teams.
 
-Rafael’s current role is Director, Engineering at [Odeko](https://odeko.com), where he focuses his energy on helping small businesses thrive.
+Rafael’s current role is Staff Software Engineer at [Mission Lane](../missionlane).
 
-Previously, he ran the Design Systems team at [Better](https://better.com) and launched products for some of the world’s most respected brands at [Work & Co](https://work.co).
+His most recent roles were at Work & Co, Better and Odeko.
 
-You can find him on [his website](https://rinaldi.io), [Twitter](https://twitter.com/rafaelrinaldi) and [LinkedIn](https://linkedin.com/in/rafaelrinaldi).
+Rafael has launched products for some of the world’s most respected brands, hired and mentored software engineers, bootstrapped and ran multidisciplinary teams and implemented organization-wide engineering initiatives.
 
-[You can also work with him](https://rinaldi.io/collab).
-
+You can also [work with him](https://rinaldi.io/collab).
 ---
 
 ### Sponsors
